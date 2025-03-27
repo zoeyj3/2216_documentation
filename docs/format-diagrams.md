@@ -2,7 +2,11 @@
 
 ## Style a Shape
 
+(content here)
 
+## Group the shapes
+
+(content here)
 
 ## Style a Connector
 
@@ -10,7 +14,11 @@
 
 Floating connectors: These move around the perimeter of your shape as you move it around the drawing canvas, or change the route that the connector takes.
 
+(content here)
+
 ### Set a fixed connector
 
 Fixed connectors: These stay attached to a fixed point on your shape, even when you move the shape around the drawing canvas.
+
+(content here)
 
