@@ -12,9 +12,9 @@ The guide is designed for users who need to create digital diagrams but new to D
 
 ## By the end of this guide, you will be able to
 
-* Create, open, share, download and save a Draw.io file
-* Create a basic flowchart in Draw.io
-* Format shapes, lines and text in Draw.io
+* Create, open, share, download and save a Draw.io file.
+* Create a basic flowchart in Draw.io.
+* Format shapes, lines and text in Draw.io.
 
 ## Prerequisites
 
@@ -30,11 +30,11 @@ We will use these message blocks to guide you through the instructions.
 
 !!! Success "Success"
 
-    Highlight successful actions or confirm that a step was completed correctly.
+    Highlight successful sections or confirm that a step was completed correctly.
 
 !!! Info "Info"
 
-    Provides additional context or helpful tips to support your understanding.
+    Provides additional context or helpful tips to help you understand.
 
 !!! Waring "Waring"
 
