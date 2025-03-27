@@ -4,7 +4,7 @@
 
 Use one of the following to add a shape to the drawing canvas:
 
-- Click on a shape in the General shape library to add it the drawing canvas.
+- Click on a shape in the General shape library to add it to the drawing canvas.
 (GIF/photo here)
 - Double-click on an empty area on the drawing canvas and select a shape.
 (GIF/photo here)
@@ -54,8 +54,6 @@ Floating connectors move around the perimeter of your shape as you move it aroun
 2. Move your mouse cursor over the direction arrow you want to draw the connector from, then drag the connector out from the arrow towards the target shape.
 3. Hover over the target shape and release when the outline of the shape is blue.
 
-(gif here)
-
 ### Draw a fixed connector
 
 Fixed connectors stay attached to a fixed point on your shape, even when you move the shape around the drawing canvas.
@@ -63,8 +61,6 @@ Fixed connectors stay attached to a fixed point on your shape, even when you mov
 1. Hover over the source shape until you see the little crosses, connection points, around the shape perimeter.
 2. Drag a connector from the connection point on the source shape towards the target shape.
 3. Hover over the target shape until you see the connection points, then hover over one of the connection points until it is highlighted in green, and release to attach the connector.
-
-(gif here)
 
 ## Add labels
 
@@ -74,6 +70,7 @@ Short labels on shapes make it easier to understand a diagram quickly.
 
 1. Double click on a shape. Start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
 2. Press Enter to save the label text.
+
 Tip: Press Shift + Enter to add a line break in a label.
 
 ### Connector labels
@@ -82,4 +79,3 @@ You can add more than one label to a connector - at the source end, the target e
 
 - Double click in the position you want to add a text label there.
 - To reposition the connector label text, click on the label, then drag the small yellow diamond to a new position.
-If you reroute the connector, you may need to update any labels you had manually positioned, but usually the label will move intelligently with the connector.
