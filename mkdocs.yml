@@ -48,4 +48,14 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
+nav:
+  - Home: index.md
+  - Getting Started: admonitions.md
+  - Create Diagrams: create-diagrams.md
+  - Format Diagrams: format-diagrams.md
+  - Code Examples: code-examples.md
+  - Content Tabs: content-tabs.md
+  - Diagram Examples: diagram-examples.md
+
+
 copyright: Copyright &copy; 2025 ZoeyJ & KhaiP
