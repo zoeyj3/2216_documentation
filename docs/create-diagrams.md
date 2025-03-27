@@ -36,11 +36,11 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
 ## Delete a shape
 
-You can delete a shape from your canvas and restore it if needed.
+There are two ways where you can delete a shape from your canvas:
 
-1. Click on the shape that needs to be removed.
+- Option 1: Left-click on the shape that needs to be removed, then press the Delete or Backspace key on the keyboard.
 
-2. Press the Delete or Backspace key on the keyboard. Alternatively, right-click the shape and select "Delete" from the context menu. If necessary, use Ctrl + Z (Windows) or Cmd + Z (Mac) to undo the action.
+- Option 2: Right-click on the shape and select "Delete" from the context menu.
 
 ## Connect the shapes
 

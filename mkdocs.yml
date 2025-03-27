@@ -50,12 +50,15 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Getting Started: admonitions.md
+  - General Operations: general-operations.md
   - Create Diagrams: create-diagrams.md
   - Format Diagrams: format-diagrams.md
-  - Code Examples: code-examples.md
-  - Content Tabs: content-tabs.md
-  - Diagram Examples: diagram-examples.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - (Fake) Getting Started: admonitions.md
+  - (Fake) Code Examples: code-examples.md
+  - (Fake) Content Tabs: content-tabs.md
+  - (Fake) Diagram Examples: diagram-examples.md
 
 
 copyright: Copyright &copy; 2025 ZoeyJ & KhaiP
