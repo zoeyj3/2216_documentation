@@ -1,6 +1,12 @@
 # Create a diagram
 
-## Add a shape
+## Overview
+
+In this section, you will learn how to create diagrams by adding, modifying, and connecting shapes. You will also explore how to label elements effectively to make diagrams more understandable. This guide provides step-by-step instructions to help you master these fundamental skills.
+
+## Fundamental Steps to Create a Diagram
+
+### Add a Shape
 
 Use one of the following to add a shape to the drawing canvas:
 
@@ -12,7 +18,7 @@ Use one of the following to add a shape to the drawing canvas:
 
 ![Add shape](assets/create-diagrams/add-shape.gif "How to add a shape")
 
-## Search for a shape
+### Search for a Shape
 
 You can quickly search for a desired shape by using the Search Shapes function.
 
@@ -24,7 +30,7 @@ You can quickly search for a desired shape by using the Search Shapes function.
 
 ![Search shapes](assets/create-diagrams/search-shapes.gif "How to search for a shape")
 
-## Add a shape library
+### Add a Shape Library
 
 In addition to the shapes in the General and Advanced shape libraries, you can use shapes from the Flowchart shape library.
 
@@ -36,7 +42,7 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
 ![Add shape library](assets/create-diagrams/add-shape-library.gif "How to add a shape library")
 
-## Move, resize, rotate, and delete shapes
+### Move, Resize, Rotate, and Delete Shapes
 
 Move - Select and drag a shape that is on the drawing canvas to another position.
 
@@ -53,9 +59,9 @@ Delete - Select a shape, then press Backspace or Delete, or click on the Delete 
 
 <img src = "/assets/create-diagrams/delete-shape.gif" alt = "Delete" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
 
-## Connect the shapes
+### Connect the Shapes
 
-### Draw a floating connector
+#### Draw a Floating Connector
 
 Floating connectors move around the perimeter of your shape as you move it around the drawing canvas, or change the route that the connector takes.
 
@@ -65,7 +71,7 @@ Floating connectors move around the perimeter of your shape as you move it aroun
 
 <img src = "/assets/create-diagrams/draw-floating-connector.gif" alt = "Floating connecter" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
 
-### Draw a fixed connector
+#### Draw a Fixed Connector
 
 Fixed connectors stay attached to a fixed point on your shape, even when you move the shape around the drawing canvas.
 
@@ -75,11 +81,11 @@ Fixed connectors stay attached to a fixed point on your shape, even when you mov
 
 <img src = "/assets/create-diagrams/draw-fixed-connector.gif" alt = "Fixed connecter" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
 
-## Add labels
+### Add Labels
 
 Short labels on shapes make it easier to understand a diagram quickly.
 
-### Add a shape label
+#### Add a Shape Label
 
 1. Click on a shape and type the text to add a new or replace a label.
 2. Press Enter (Linux/Windows) or Control + Enter (Mac) to save the label.
@@ -88,7 +94,7 @@ Short labels on shapes make it easier to understand a diagram quickly.
 
 **Tip:** Press Shift + Enter to add a line break in a label.
 
-### Add a connector label
+#### Add a Connector Label
 
 You can add more than one label to a connector - at the source end, the target end, and in the middle.
 
@@ -96,3 +102,17 @@ You can add more than one label to a connector - at the source end, the target e
 - To reposition the connector label text, click on the label, then drag the small yellow diamond to a new position.
 
 <img src = "/assets/create-diagrams/add-connector-label.gif" alt = "Connector label" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+
+## Conclusion
+
+By the end of this section, you will have successfully learned the following:
+
+:white_check_mark:&nbsp; How to add, move, resize, and delete shapes on the drawing canvas.
+
+:white_check_mark:&nbsp; How to connect shapes using floating and fixed connectors.
+
+:white_check_mark:&nbsp; How to add labels for both shapes and connectors.
+
+Great job &nbsp;:blush:.&nbsp; You can go ahead and click on the link below to move on to the next step:
+
+[Format Diagrams](format-diagrams.md)
