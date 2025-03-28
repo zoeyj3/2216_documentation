@@ -68,6 +68,6 @@ By the end of this section, you will have successfully learned the following:
 
 :white_check_mark:&nbsp; How to adjust connector paths and arrow styles for better visual clarity.
 
-Great job &nbsp;:tada:.&nbsp; Check out the next page if you've had any issues getting the project to work:
+Awesome &nbsp;:tada:!&nbsp; Check out the next page if you've had any issues getting the project to work:
 
 [Troubleshooting](troubleshooting.md)
