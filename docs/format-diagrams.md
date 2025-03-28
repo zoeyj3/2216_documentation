@@ -37,10 +37,9 @@ You can change the text style of labels on the Text tab:
 
 ## Style a connector
 
-You can add colours and style your shapes and connectors via the Style tab:
+You can also add colours and style your connectors via the Style tab:
 
-- The style palette at the top of the Style tab changes both the fill and outline colour. Click the left or right arrows to view more styles.
-- To set your own colour, click on the colour button next to Fill or Line, select a new colour or enter a hex colour code in the top text field.
+- The style palette at the top of the Style tab changes both the fill and outline colour. 
 - Style a selected connector to have arrows on both ends or no arrows.
 - To change the path of a connector, drag one of the waypoints into a new position.
 

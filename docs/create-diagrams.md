@@ -5,11 +5,13 @@
 Use one of the following to add a shape to the drawing canvas:
 
 - Click on a shape in the General shape library to add it to the drawing canvas.
-(GIF/photo here)
-- Double-click on an empty area on the drawing canvas and select a shape.
-(GIF/photo here)
+
 - Drag a shape from the General shape library to a specific position on the drawing canvas.
-(GIF/photo here)
+
+- Double-click on an empty area on the drawing canvas and select a shape.
+
+![Add shape](assets/add-shape.gif "Ways to add a shape")
+
 
 ## Search for a shape
 
@@ -17,11 +19,9 @@ You can quickly search for a desired shape by using the Search Shapes function.
 
 1. In the left sidebar, find the "Search Shapes" box at the top.
 
-2. Type a relevant keyword related to the shape you need (e.g., UML).
+2. Type a relevant keyword related to the shape you need (e.g., arrow).
 
-3. Click on the shape from the search results.
-
-4. Drag and drop the selected shape into your canvas.
+3. Click on the shape from the search results or drag and drop the selected shape into your canvas.
 
 ## Add a shape library
 
@@ -68,10 +68,10 @@ Short labels on shapes make it easier to understand a diagram quickly.
 
 ### Shape labels
 
-1. Double click on a shape. Start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
-2. Press Enter to save the label text.
+1. Click on a shape and type the text to add a new or replace a label.
+2. Press Enter (Linux/Windows) or Control + Enter (Mac) to save the label.
 
-Tip: Press Shift + Enter to add a line break in a label.
+**Tip:** Press Shift + Enter to add a line break in a label.
 
 ### Connector labels
 
