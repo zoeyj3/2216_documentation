@@ -22,7 +22,7 @@ Grouping shapes in draw.io allows you to move, resize, and format multiple shape
 
 3. Ungroup the shapes (if necessary): Right-click on the grouped shapes and choose Ungroup.
 
-<img src = "/assets/format-diagrams/group-shapes.gif" alt = "Grouping" width="75%" height="75%" style="display: block; margin-left: auto; margin-right: auto;">
+![Group shapes](assets/format-diagrams/group-shapes.gif "How to group shapes together")
 
 ### Style a Shape
 
@@ -35,7 +35,7 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
 (photo)
 - To set your own colour, click on the colour button next to Fill or Line, select a new colour or enter a hex colour code in the top text field.
 
-<img src = "/assets/format-diagrams/style-shapes.gif" alt = "Styling shapes" width="75%" height="75%" style="display: block; margin-left: auto; margin-right: auto;">
+![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes")
 
 ### Style a label
 
@@ -46,7 +46,7 @@ You can change the text style of labels on the Text tab:
 - Change the justification to be left, right or centred.
 - Click on the colour button next to Font Color.
 
-<img src = "/assets/format-diagrams/style-text.gif" alt = "Styling text" width="75%" height="75%" style="display: block; margin-left: auto; margin-right: auto;">
+![Style labels](assets/format-diagrams/style-text.gif "How to style labels")
 
 ### Style a connector
 
@@ -56,7 +56,7 @@ You can also add colours and style your connectors via the Style tab:
 - Style a selected connector to have arrows on both ends or no arrows.
 - To change the path of a connector, drag one of the waypoints into a new position.
 
-<img src = "/assets/format-diagrams/change-path.gif" alt = "Change path" width="75%" height="75%" style="display: block; margin-left: auto; margin-right: auto;">
+![Style connectors](assets/format-diagrams/change-path.gif "How to style connectors")
 
 ## Conclusion
 

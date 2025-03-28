@@ -46,18 +46,19 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
 Move - Select and drag a shape that is on the drawing canvas to another position.
 
-<img src = "/assets/create-diagrams/move-shape.gif" alt = "Move" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Move shapes](assets/create-diagrams/move-shape.gif "How to move a shape")
 
 Resize - Select a shape. Drag any of the round ‘grab’ handles to make the shape smaller or larger. Hold Control (Windows/Linux) or Command (Mac) to keep them centred. Hold Shift to resize them proportionately.
 
-<img src = "/assets/create-diagrams/resize-shape.gif" alt = "Resize" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Resize shapes](assets/create-diagrams/resize-shape.gif "How to resize a shape")
 
 Rotate - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to rotate the shape around its center point.
-<img src = "/assets/create-diagrams/rotate-shape.gif" alt = "Rotate" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+
+![Rotate shapes](assets/create-diagrams/rotate-shape.gif "How to rotate a shape")
 
 Delete - Select a shape, then press Backspace or Delete, or click on the Delete tool in the toolbar.
 
-<img src = "/assets/create-diagrams/delete-shape.gif" alt = "Delete" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Delete shapes](assets/create-diagrams/delete-shape.gif "How to delete a shape")
 
 ### Connect the Shapes
 
@@ -69,7 +70,7 @@ Floating connectors move around the perimeter of your shape as you move it aroun
 2. Move your mouse cursor over the direction arrow you want to draw the connector from, then drag the connector out from the arrow towards the target shape.
 3. Hover over the target shape and release when the outline of the shape is blue.
 
-<img src = "/assets/create-diagrams/draw-floating-connector.gif" alt = "Floating connecter" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Floating connector](assets/create-diagrams/draw-floating-connector.gif "How to draw a floating connector")
 
 #### Draw a Fixed Connector
 
@@ -79,7 +80,7 @@ Fixed connectors stay attached to a fixed point on your shape, even when you mov
 2. Drag a connector from the connection point on the source shape towards the target shape.
 3. Hover over the target shape until you see the connection points, then hover over one of the connection points until it is highlighted in green, and release to attach the connector.
 
-<img src = "/assets/create-diagrams/draw-fixed-connector.gif" alt = "Fixed connecter" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Fixed connector](assets/create-diagrams/draw-fixed-connector.gif "How to draw a fixed connector")
 
 ### Add Labels
 
@@ -90,7 +91,7 @@ Short labels on shapes make it easier to understand a diagram quickly.
 1. Click on a shape and type the text to add a new or replace a label.
 2. Press Enter (Linux/Windows) or Control + Enter (Mac) to save the label.
 
-<img src = "/assets/create-diagrams/add-shape-label.gif" alt = "Shape label" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Shape label](assets/create-diagrams/add-shape-label.gif "How to add a shape label")
 
 **Tip:** Press Shift + Enter to add a line break in a label.
 
@@ -101,7 +102,7 @@ You can add more than one label to a connector - at the source end, the target e
 - Double click in the position you want to add a text label there.
 - To reposition the connector label text, click on the label, then drag the small yellow diamond to a new position.
 
-<img src = "/assets/create-diagrams/add-connector-label.gif" alt = "Connector label" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;">
+![Connector label](assets/create-diagrams/add-connector-label.gif "How to add a connector label")
 
 ## Conclusion
 
