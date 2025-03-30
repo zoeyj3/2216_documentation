@@ -1,4 +1,4 @@
-# Toubleshooting (Zoey)
+# Toubleshooting
 
 | Symptom       | Possible Cause       | Action       |
 | ----------------- | ----------------- | -------------- |
