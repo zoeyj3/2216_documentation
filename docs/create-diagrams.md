@@ -8,25 +8,25 @@ In this section, you will learn how to create diagrams by adding, modifying, and
 
 ### Add a Shape
 
-Use one of the following to add a shape to the drawing canvas:
+You can insert a shape into the drawing canvas using one of these methods:
 
-- Click on a shape in the General shape library to add it to the drawing canvas.
+- **Click** on a shape in the *General shape library* to place it on the canvas.
 
-- Drag a shape from the General shape library to a specific position on the drawing canvas.
+- **Drag** and drop a shape from the *General shape library* to your desired location.
 
-- Double-click on an empty area on the drawing canvas and select a shape.
+- **Double-click** on an empty space in the canvas and select a shape from the menu.
 
 ![Add shape](assets/create-diagrams/add-shape.gif "How to add a shape")
 
 ### Search for a Shape
 
-You can quickly search for a desired shape by using the Search Shapes function.
+Easily locate a specific shape using the *Search Shapes* feature:
 
-1. In the left sidebar, find the "Search Shapes" box at the top.
+1. In the left sidebar, find the `Search Shapes` box at the top.
 
-2. Type a relevant keyword related to the shape you need (e.g., arrow).
+2. Type a keyword related to the shape you need (e.g., `arrow`).
 
-3. Click on the shape from the search results or drag and drop the selected shape into your canvas.
+3. Click on the desired shape from the search results or drag it onto the canvas.
 
 ![Search shapes](assets/create-diagrams/search-shapes.gif "How to search for a shape")
 
@@ -34,29 +34,29 @@ You can quickly search for a desired shape by using the Search Shapes function.
 
 In addition to the shapes in the General and Advanced shape libraries, you can use shapes from the Flowchart shape library.
 
-1. Click on "More Shapes" located at the bottom of the left sidebar.
+1. Click on **More Shapes** at the bottom of the left sidebar.
 
 2. A pop-up window will appear, displaying various shape categories. Check the boxes next to the desired shape library to enable it.
 
-3. Click "Apply" to include the selected libraries in your canvas.
+3. Click **Apply** to include the selected libraries in your canvas.
 
 ![Add shape library](assets/create-diagrams/add-shape-library.gif "How to add a shape library")
 
 ### Move, Resize, Rotate, and Delete Shapes
 
-Move - Select and drag a shape that is on the drawing canvas to another position.
+**Move**: Click and drag a shape to reposition it.
 
 ![Move shapes](assets/create-diagrams/move-shape.gif "How to move a shape")
 
-Resize - Select a shape. Drag any of the round ‘grab’ handles to make the shape smaller or larger. Hold Control (Windows/Linux) or Command (Mac) to keep them centred. Hold Shift to resize them proportionately.
+**Resize**: Select a shape and drag its round grab handles to adjust its size. Hold `Control` (Windows/Linux) or `Command` (Mac) to keep it centred. Hold `Shift` to maintain the shape's proportions.
 
 ![Resize shapes](assets/create-diagrams/resize-shape.gif "How to resize a shape")
 
-Rotate - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to rotate the shape around its center point.
+**Rotate**:  Click the shape and drag the *rotate handle* (round arrow) at the top right to spin it around its center.
 
 ![Rotate shapes](assets/create-diagrams/rotate-shape.gif "How to rotate a shape")
 
-Delete - Select a shape, then press Backspace or Delete, or click on the Delete tool in the toolbar.
+**Delete**: Select a shape and press `Backspace` or `Delete`, or use the **Delete tool* in the toolbar.
 
 ![Delete shapes](assets/create-diagrams/delete-shape.gif "How to delete a shape")
 
@@ -64,43 +64,51 @@ Delete - Select a shape, then press Backspace or Delete, or click on the Delete 
 
 #### Draw a Floating Connector
 
-Floating connectors move around the perimeter of your shape as you move it around the drawing canvas, or change the route that the connector takes.
+Floating connectors automatically adjust their position as shapes move or their connecting paths change.
 
-1. Hover over the source shape until you see the light direction arrows appear.
-2. Move your mouse cursor over the direction arrow you want to draw the connector from, then drag the connector out from the arrow towards the target shape.
-3. Hover over the target shape and release when the outline of the shape is blue.
+1. Hover over the source shape until directional arrows appear.
+
+2. Move your cursor over the arrow in the direction you want to create a connection.
+
+3. Drag the connector from the source shape to the target shape.
+
+4. Release when the target shape’s outline turns blue.
 
 ![Floating connector](assets/create-diagrams/draw-floating-connector.gif "How to draw a floating connector")
 
 #### Draw a Fixed Connector
 
-Fixed connectors stay attached to a fixed point on your shape, even when you move the shape around the drawing canvas.
+Fixed connectors stay attached to a specific point on a shape, regardless of movement.
 
-1. Hover over the source shape until you see the little crosses, connection points, around the shape perimeter.
-2. Drag a connector from the connection point on the source shape towards the target shape.
-3. Hover over the target shape until you see the connection points, then hover over one of the connection points until it is highlighted in green, and release to attach the connector.
+1. Hover over the source shape to reveal connection points (small crosses along the perimeter).
+
+2. Drag a connector from a connection point on the source shape.
+
+3. Hover over the target shape until its connection points appear.
+
+4. Position the cursor over a connection point until it highlights green, then release to attach the connector.
 
 ![Fixed connector](assets/create-diagrams/draw-fixed-connector.gif "How to draw a fixed connector")
 
 ### Add Labels
 
-Short labels on shapes make it easier to understand a diagram quickly.
-
 #### Add a Shape Label
 
+Shape labels on shapes make it easier to understand a diagram quickly.
+
 1. Click on a shape and type the text to add a new or replace a label.
-2. Press Enter (Linux/Windows) or Control + Enter (Mac) to save the label.
+2. Press `Enter` (Linux/Windows) or `Control + Enter` (Mac) to save the label.
 
 ![Shape label](assets/create-diagrams/add-shape-label.gif "How to add a shape label")
 
-**Tip:** Press Shift + Enter to add a line break in a label.
+**Tip:** Press `Shift + Enter` to add a line break in a label.
 
 #### Add a Connector Label
 
 You can add more than one label to a connector - at the source end, the target end, and in the middle.
 
-- Double click in the position you want to add a text label there.
-- To reposition the connector label text, click on the label, then drag the small yellow diamond to a new position.
+1. **Double-click* at the desired location on the connector to add a label.
+2. To reposition the label, click on it and drag the `small yellow diamond` to a new position.
 
 ![Connector label](assets/create-diagrams/add-connector-label.gif "How to add a connector label")
 
