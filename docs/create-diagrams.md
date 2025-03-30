@@ -24,7 +24,7 @@ Easily locate a specific shape using the *Search Shapes* feature:
 
 1. In the left sidebar, find the `Search Shapes` box at the top.
 
-2. **Type** a keyword related to the shape you need (e.g., `arrow`).
+2. **Type** a keyword related to the shape you need (e.g., `flowchart` or `UML`).
 
 3. **Click** on the desired shape from the search results or drag it onto the canvas.
 
