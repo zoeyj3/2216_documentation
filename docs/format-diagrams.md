@@ -8,7 +8,9 @@ This section will cover how to enhance diagrams by formatting shapes, connectors
 
 ### Group the Shapes
 
-Grouping shapes allows you to move, resize, and format multiple elements as a single unit.
+!!! note "Grouping shapes fosters formatting consistency"
+
+    Grouping shapes allows you to move, resize, and format multiple elements as a single unit.
 
 To group shapes:
 
@@ -44,6 +46,10 @@ Once you've added shapes, connectors, and labels, you can apply styles to improv
 
     - To set a custom color, click the **color button** next to *Fill* or *Line*, then choose a color or enter a hex code.
 
+!!! tip "Consistency is Key"
+
+    Stick to a color scheme or style template to avoid confusion. Too many different colors can overwhelm the viewer and reduce the diagram's effectiveness.
+
 ![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes")
 
 ### Style a label
@@ -55,6 +61,10 @@ Modify text styles for labels via the *Text* tab:
 - Adjust text alignment (**left, center, or right**).
 - Click the **color button** next to *Font Color* to modify text color.
 
+!!! tip "Label clarity"
+
+    ensure that the font size is legible and that there’s enough padding between the text and surrounding shapes. Keep text concise to avoid clutter.
+
 ![Style labels](assets/format-diagrams/style-text.gif "How to style labels")
 
 ### Style a connector
@@ -64,6 +74,10 @@ You can customize connectors in the *Style* tab:
 - The **style palette** modifies both fill and outline colors.
 - Adjust arrow styles to have **arrows at both ends or none**.
 - To change a connector's path, **drag a waypoint** to a new position.
+
+!!! warning "Avoid overlapping connectors"
+
+    Ensure that they do not overlap with shapes or other connectors, as this can reduce clarity. Use curved connectors or change paths when necessary.
 
 ![Style connectors](assets/format-diagrams/change-path.gif "How to style connectors")
 

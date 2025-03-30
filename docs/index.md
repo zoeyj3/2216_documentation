@@ -32,11 +32,11 @@ We will use these message blocks to guide you through the instructions.
 
     Highlight successful sections or confirm that a step was completed correctly.
 
-!!! Info "Info"
+!!! note "Info"
 
     Provides additional context or helpful tips to help you understand.
 
-!!! Waring "Waring"
+!!! warning "Warning"
 
     Pay attention to the warning to avoid potential errors or unwanted outcomes.
 
