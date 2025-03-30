@@ -2,59 +2,68 @@
 
 ## Overview
 
-In this section, you will learn how to enhance your diagrams by formatting shapes, connectors, and labels. Formatting improves readability and visual clarity, making your diagrams more effective. You will explore grouping, styling, and modifying diagram elements to create a polished and professional appearance.
+This section will cover how to enhance diagrams by formatting shapes, connectors, and labels. Proper formatting improves clarity and ensures a professional appearance. You'll learn how to group, style, and modify elements effectively.
 
 ## Steps for Formatting a Diagram
 
 ### Group the Shapes
 
-Grouping shapes in draw.io allows you to move, resize, and format multiple shapes as a single unit.
+Grouping shapes allows you to move, resize, and format multiple elements as a single unit.
 
-1. Select the shapes you want top group by doing one of the following:
+To group shapes:
 
-    - Click and drag your mouse to create a selection box around the shapes you want to group.
-    - Hold the Shift key and click on each shape individually to select multiple shapes.
+1. **Select multiple shapes** using one of the following methods:
 
-2. Once the desired shapes are selected, do one of the following:
+    - Click and drag to create a selection box around the desired shapes.
 
-    - Right-click on any of the selected shapes and choose Group from the context menu.
-    - Press Ctrl + G (Windows/Linux) or Cmd + G (Mac) to group the shapes.
+    - Hold `Shift` and click each shape individually.
 
-3. Ungroup the shapes (if necessary): Right-click on the grouped shapes and choose Ungroup.
+2. **Group the selected shapes** using one of these methods:
+
+    - Right-click and choose **Group** from the context menu.
+
+    - Press `Ctrl + G` (Windows/Linux) or `Cmd + G` (Mac).
+
+3. **Ungroup shapes** if necessary:
+
+    - Right-click on a grouped shape and choose **Ungroup**.
 
 ![Group shapes](assets/format-diagrams/group-shapes.gif "How to group shapes together")
 
 ### Style a Shape
 
-Once you have finished adding all the shapes, connectors and labels, you can style your flow chart.
+Once you've added shapes, connectors, and labels, you can apply styles to improve visual appeal.
 
-1. Select a shape, or hold Shift down and click on multiple shapes and connectors to select many.
-(gif here)
-2. Add colours and style your shapes and connectors via the Style tab.
-- The style palette at the top of the Style tab changes both the fill and outline colour. Click the left or right arrows to view more styles.
-(photo)
-- To set your own colour, click on the colour button next to Fill or Line, select a new colour or enter a hex colour code in the top text field.
+1. **Select a shape** or multiple elements by holding `Shift` and clicking.
+
+2. **Apply styles** using the Style tab:
+
+    - The **style palette** at the top allows you to adjust both fill and outline colors.
+
+    - Click the left or right arrows to view additional styles.
+
+    - To set a custom color, click the **color button** next to *Fill* or *Line*, then choose a color or enter a hex code.
 
 ![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes")
 
 ### Style a label
 
-You can change the text style of labels on the Text tab:
+Modify text styles for labels via the *Text* tab:
 
-- Select a different Font from the list.
-- Add Bold, Italics, or Underline.
-- Change the justification to be left, right or centred.
-- Click on the colour button next to Font Color.
+- Select a different **font** from the list.
+- Apply **bold**, *italic*, or **underline** formatting.
+- Adjust text alignment (**left, center, or right**).
+- Click the **color button** next to *Font Color* to modify text color.
 
 ![Style labels](assets/format-diagrams/style-text.gif "How to style labels")
 
 ### Style a connector
 
-You can also add colours and style your connectors via the Style tab:
+You can customize connectors in the *Style* tab:
 
-- The style palette at the top of the Style tab changes both the fill and outline colour. 
-- Style a selected connector to have arrows on both ends or no arrows.
-- To change the path of a connector, drag one of the waypoints into a new position.
+- The **style palette** modifies both fill and outline colors.
+- Adjust arrow styles to have **arrows at both ends or none**.
+- To change a connector's path, **drag a waypoint** to a new position.
 
 ![Style connectors](assets/format-diagrams/change-path.gif "How to style connectors")
 
