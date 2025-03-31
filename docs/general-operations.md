@@ -29,13 +29,27 @@ Here we are going to create our first file on draw.io. Make sure you are signed 
 
 
 ## Share a draw.io file
-Draw.io provides a collaboration feature that allows you to work on diagrams with others. This section will introduce how to invite co-workers through their Google email addresses.
+Draw.io provides a collaboration feature that allows you to work on diagrams with others. This section will introduce 2 ways to invite co-workers: by sending invitation via email or sharing the link.
 
+=== Via email
+1. **Click** the blue `Share` on the top right of the page.
+2. **Enter** the email address that you want to share your document with in the input box, return.
+![share_email.jpg](assets/general-operations/share_email.jpg)
+3. **Select** the correct access, then **click** `Send`.
+![send_invitation.gif](assets/general-operations/send_invitation.gif)
 
+=== Via link
+1. **Click** the blue `Share` on the top right of the page.
+2. In `General access` section, **click** `restricted` dropdown menu, and **select** `Everyone with the link`.
+![change_access.jpg](assets/general-operations/change_access.jpg)
+3. **Click** the `Viewer`dropdown menu on the right side, **select** the access you want to give them.
+![change_role.jpg](assets/general-operations/change_role.jpg)
+4.**Click** the left bottom `Copy link`, and **send** the link by pasting it to your collaborators through any chat app.
 
+!!! Success "Success"
 
+You successfully shared your file. Just give them a quick reminder to check the invitation!
 
-## Share a file
 
 
 
