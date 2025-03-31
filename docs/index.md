@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome! The purpose of this document is to help you with [draw.io](https://app.diagrams.net/), also known as Diagrams.net, a free diagramming tool allows user to create various type of diagrams, including flowcharts, mind maps, UML diagrams, and even Kanban Board.
+Welcome! The purpose of this document is to help you with [Draw.io](https://app.diagrams.net/), also known as Diagrams.net, a free diagramming tool allows user to create various type of diagrams, including flowcharts, mind maps, UML diagrams, and even Kanban Board.
 
-For full official documentation visit [draw.io Documentation](https://www.drawio.com/doc/).
+For full official documentation visit [Draw.io Documentation](https://www.drawio.com/doc/).
 
 ## Is This Guide For You?
 
@@ -40,19 +40,3 @@ We will use these message blocks to guide you through the instructions.
 
     Pay attention to the warning to avoid potential errors or unwanted outcomes.
 
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-test emojis and icons :beers: :soccer:
