@@ -61,7 +61,15 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-
+  - toc:
+      toc_depth: 4
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  -
 nav:
   - Home: index.md
   - General Operations: general-operations.md
@@ -74,5 +82,7 @@ nav:
   - (Fake) Content Tabs: content-tabs.md
   - (Fake) Diagram Examples: diagram-examples.md
 
+extra_css:
+  - stylesheets/extra.css
 
 copyright: Copyright &copy; 2025 ZoeyJ & KhaiP
