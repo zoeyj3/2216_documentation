@@ -22,8 +22,6 @@ theme:
   logo: assets/drawio-logo.png
   favicon: assets/drawio-logo.png
   features:
-    - navigation.tracking
-    - navigation.sections
     - navigation.footer
   palette:
     # Dark Mode
