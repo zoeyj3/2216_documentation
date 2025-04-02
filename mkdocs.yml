@@ -22,7 +22,10 @@ theme:
   logo: assets/drawio-logo.png
   favicon: assets/drawio-logo.png
   features:
-    - navigation.footer
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
