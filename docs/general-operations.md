@@ -138,3 +138,17 @@ In this section, we will introduce how to export your diagram as a PDF or image 
 !!! Success "Success"
 
       You have successfully exported your file to your local device.
+
+## Conclusion
+
+By the end of this section, you will have successfully learned the following:
+
+:white_check_mark:&nbsp; How to create a new draw.io file and save it to Google Drive.
+
+:white_check_mark:&nbsp; How to share your diagram with collaborators via email or link
+
+:white_check_mark:&nbsp; How to export your diagram as a PDF.
+
+Great job! &nbsp;:blush:&nbsp; Y Check out the next page and we are going to create the diagram!
+
+[Create Diagrams](create-diagrams.md)
