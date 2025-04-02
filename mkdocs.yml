@@ -7,10 +7,7 @@ nav:
   - Format Diagrams: format-diagrams.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
-  - (Fake) Admonitions: admonitions.md
-  - (Fake) Code Examples: code-examples.md
-  - (Fake) Content Tabs: content-tabs.md
-  - (Fake) Diagram Examples: diagram-examples.md
+
 
 repo_url: https://github.com/zoeyj3/2216_documentation
 
@@ -72,10 +69,6 @@ nav:
   - Format Diagrams: format-diagrams.md
   - Troubleshooting: troubleshooting.md
   - Glossary: glossary.md
-  - (Fake) Getting Started: admonitions.md
-  - (Fake) Code Examples: code-examples.md
-  - (Fake) Content Tabs: content-tabs.md
-  - (Fake) Diagram Examples: diagram-examples.md
 
 extra_css:
   - stylesheets/extra.css
