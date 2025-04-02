@@ -149,6 +149,6 @@ By the end of this section, you will have successfully learned the following:
 
 :white_check_mark:&nbsp; How to export your diagram as a PDF.
 
-Great job! &nbsp;:blush:&nbsp; Y Check out the next page and we are going to create the diagram!
+Great job! &nbsp;:blush:&nbsp; Y Check out the next page, and we are going to create your first diagram!
 
 [Create Diagrams](create-diagrams.md)
