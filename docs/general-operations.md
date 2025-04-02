@@ -45,21 +45,18 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 2. **Enter** the email address that you want to share your document with in the input box, return.
 
    <figure markdown>
-   ![Shape panel](./assets/general-operations/share_email.jpg){width="600"}
+   ![Shape panel](assets/general-operations/share_email.jpg){width="600"}
    </figure>
 
 3. **Select** the correct access on the dropdown menu, then **click** `Send`.
 
    <figure markdown>
-   ![Shape panel](./assets/general-operations/email_access.jpg){width="500"}
+   ![Shape panel](assets/general-operations/email_access.jpg){width="500"}
    </figure>
 
 !!! note "What is the Role"
     
-         there are three levels of permissions: 
-         Editor: Can edit all content in the diagram.
-         Commenter: Can view and leave comments but cannot make changes.
-         Viewer: Can only view the diagram and cannot share, edit, or change access permissions.
+         There are three levels of permissions: Editor: Can edit all content in the diagram. Commenter: Can view and leave comments but cannot make changes. Viewer: Can only view the diagram and cannot share, edit, or change access permissions.
 
 ### Via link ###
 
@@ -84,11 +81,10 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
     You successfully shared your file. Just give them a quick reminder to check the invitation!
 
 
-## Export a file
+## Export a file as a PDF
 
-In this section, we will introduce how to export your diagram as a PDF or image file. We will also show you how to export your diagram in a revisable XML format, which allows for integration with other diagramming tools.
+In this section, we will introduce how to export your diagram as a revisable PDF.
 
-### Export as a PDF or image ###
 
 1. **Click** the `File` in menu, then **select** `Export as`. Here we can find a menu of all common format.
 
@@ -116,13 +112,13 @@ In this section, we will introduce how to export your diagram as a PDF or image 
    
       e. `Border Width` Extend the page to increase or shrink the border of canvas. 
 
-   f. `Zoom` Zoom the printing diagram on canvas.
+      f. `Zoom` Zoom the printing diagram on canvas.
 
-   g. `Grid` Export the diagram with grids in canvas.
+      g. `Grid` Export the diagram with grids in canvas.
 
-   h. `Transparent Background` Export the diagram with transparent background.
+      h. `Transparent Background` Export the diagram with transparent background.
 
-   i. `Include a copy of my diagram` Embed the original diagram data into the exported PDF file. This will allow you to reopen and edit the diagram directly in draw.io.
+      i. `Include a copy of my diagram` Embed the original diagram data into the exported PDF file. This will allow you to reopen and edit the diagram directly in draw.io.
 
 3.**Select** `Export`. In the pop-up windows, change the name of the file if needed. 
       <figure markdown>
@@ -149,6 +145,6 @@ By the end of this section, you will have successfully learned the following:
 
 :white_check_mark:&nbsp; How to export your diagram as a PDF.
 
-Great job! &nbsp;:blush:&nbsp; Y Check out the next page, and we are going to create your first diagram!
+Great job! &nbsp;:blush:&nbsp; Check out the next page, and we are going to create your first diagram!
 
 [Create Diagrams](create-diagrams.md)
