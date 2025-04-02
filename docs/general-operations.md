@@ -8,21 +8,25 @@ In this section, we will guide you through some basic setting up operations, inc
 Here we are going to create our first file on draw.io. Make sure you are signed in to your Google account.
 
 1. When you first open draw.io, you’ll see a screen like below. 
-**click** the icon of `Google Drive`.
+**Click** the icon of `Google Drive`.
 
     <figure markdown>
-    ![Shape panel](./assets/general-operations/create-new-file.jpg){width="500"}
+    ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
     </figure>
 
 
 2. **Select** `Blank Diagram`, and **click** `Create`.
-   <figure markdown>
-   ![Shape panel](./assets/general-operations/select_type.jpg){width="500"}
-   </figure>
-3. **Change** the `file name` in the next pop-up window. Keep the other settings as default.
+
       <figure markdown>
-   ![Shape panel](assets/general-operations/change_name.jpg){width="500"}
+      ![Shape panel](assets/general-operations/select_type.jpg){width="500"}
       </figure>
+   
+3. **Change** the `file name` in the next pop-up window. Keep the other settings as default.
+
+      <figure markdown>
+      ![Shape panel](assets/general-operations/change_name.jpg){width="500"}
+      </figure>
+   
 4. **Click** `Save` and wait a few seconds while draw.io loads the editing tools.
 
 !!! note "Info"
@@ -44,15 +48,15 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 
 2. **Enter** the email address that you want to share your document with in the input box, return.
 
-   <figure markdown>
-   ![Shape panel](assets/general-operations/share_email.jpg){width="600"}
-   </figure>
+      <figure markdown>
+      ![Shape panel](assets/general-operations/share_email.jpg){width="600"}
+      </figure>
 
 3. **Select** the correct access on the dropdown menu, then **click** `Send`.
 
-   <figure markdown>
-   ![Shape panel](assets/general-operations/email_access.jpg){width="500"}
-   </figure>
+      <figure markdown>
+      ![Shape panel](assets/general-operations/email_access.jpg){width="500"}
+       </figure>
 
 !!! note "What is the Role"
     
@@ -64,17 +68,17 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 
 2. In `General access` section, **click** `restricted` dropdown menu, and **select** `Everyone with the link`.
 
-   <figure markdown>
-   ![Shape panel](./assets/general-operations/change_access.jpg){width="500"}
-   </figure>
+      <figure markdown>
+      ![Shape panel](assets/general-operations/change_access.jpg){width="500"}
+      </figure>
    
 3. **Click** the `Viewer`dropdown menu on the right side, **select** the access you want to give them.
 
-   <figure markdown>
-   ![Shape panel](assets/general-operations/change_role.jpg){width="600"}
-   </figure>
+      <figure markdown>
+      ![Shape panel](assets/general-operations/change_role.jpg){width="600"}
+      </figure>
 
-4.**Click** the left bottom `Copy link`, and **send** the link by pasting it to your collaborators through any chat app.
+4. **Click** the left bottom `Copy link`, and **send** the link by pasting it to your collaborators through any chat app.
 
 !!! Success "Success"
 

@@ -1,9 +1,9 @@
 # Toubleshooting
 
-| Symptom       | Possible Cause       | Action       |
-| ----------------- | ----------------- | -------------- |
-| Placeholder  | Placeholder   | Placeholder   |
-| Placeholder   | Placeholder   | Placeholder   |
-| Placeholder   | Placeholder   | Placeholder   |
-| Placeholder   | Placeholder   | Placeholder  |
-| Placeholder   | Placeholder  | Placeholder   |
+| Symptom                                     | Possible Cause                                             | Action                                                                                                                                                       |
+|---------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Diagram not saving to Google Drive          | Not signed in to your Google account                       | Make sure you're logged into your Google account and have granted draw.io access to your Drive                                                               |
+| Exported PDF file won’t open                | The file extension(.pdf) was removed or file was corrupted | Ensure you keep the file extension when renaming; re-export the file if needed. Notice:                                                                      |
+| Cannot open the exported .xml file directly | XML files are not readable by standard applications                                               | Open draw.io, select File > Import From > Device, and choose the XML file to load your diagram                                                               |
+| Unable to edit or move a shape              | The shape is locked.                                              | Click the shape and select Lock/Unlock from the Format Panel on the right side of the canva. Or, right-click the shape and select Lock/Unlock from the menu. |
+| Some shapes disappear from the diagram      | Shapes were selected and deleted by mistake                                              | Press `Ctrl + Z` for Windows or `Cmd + z` on Mac to undo the action. You can also check the history from File > Revision History to restore.                 |
