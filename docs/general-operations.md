@@ -18,7 +18,7 @@ Here we are going to create our first file on draw.io. Make sure you are signed 
 2. **Select** `Blank Diagram`, and **click** `Create`.
 
       <figure markdown>
-      ![Shape panel](assets/general-operations/select_type.jpg){width="500"}
+      ![Shape panel](assets/general-operations/select_type.jpg){width="600"}
       </figure>
    
 3. **Change** the `file name` in the next pop-up window. Keep the other settings as default.
@@ -49,18 +49,18 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 2. **Enter** the email address that you want to share your document with in the input box, return.
 
       <figure markdown>
-      ![Shape panel](assets/general-operations/share_email.jpg){width="600"}
+      ![Shape panel](assets/general-operations/share_email.jpg){width="700"}
       </figure>
 
 3. **Select** the correct access on the dropdown menu, then **click** `Send`.
 
       <figure markdown>
-      ![Shape panel](assets/general-operations/email_access.jpg){width="500"}
-       </figure>
+      ![Shape panel](assets/general-operations/email_access.jpg){width="600"}
+      </figure>
 
 !!! note "What is the Role"
     
-         There are three levels of permissions: Editor: Can edit all content in the diagram. Commenter: Can view and leave comments but cannot make changes. Viewer: Can only view the diagram and cannot share, edit, or change access permissions.
+         Editor: Can edit all content in the diagram. Commenter: Can leave comments but cannot make changes. Viewer: Can only view the diagram and cannot share, edit, or change access permissions.
 
 ### Via link ###
 
@@ -69,7 +69,7 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 2. In `General access` section, **click** `restricted` dropdown menu, and **select** `Everyone with the link`.
 
       <figure markdown>
-      ![Shape panel](assets/general-operations/change_access.jpg){width="500"}
+      ![Shape panel](assets/general-operations/change_access.jpg){width="700"}
       </figure>
    
 3. **Click** the `Viewer`dropdown menu on the right side, **select** the access you want to give them.

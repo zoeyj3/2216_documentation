@@ -17,7 +17,6 @@ repo_url: https://github.com/zoeyj3/2216_documentation
 theme:
   name: material
   font:
-    text: Merriweather Sans
     code: Red Hat Mono
   logo: assets/drawio-logo.png
   favicon: assets/drawio-logo.png
