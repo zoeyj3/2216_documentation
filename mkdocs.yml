@@ -24,8 +24,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.sections
-    - navigation.top
-    - toc.integrate
+    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate
