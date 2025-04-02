@@ -17,8 +17,8 @@ repo_url: https://github.com/zoeyj3/2216_documentation
 theme:
   name: material
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Merriweather Sans
+    code: Red Hat Mono
   logo: assets/drawio-logo.png
   favicon: assets/drawio-logo.png
   features:
@@ -62,12 +62,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-extra:
-  social:
+nav:
+  - Home: index.md
+  - General Operations: general-operations.md
+  - Create Diagrams: create-diagrams.md
+  - Format Diagrams: format-diagrams.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - (Fake) Getting Started: admonitions.md
+  - (Fake) Code Examples: code-examples.md
+  - (Fake) Content Tabs: content-tabs.md
+  - (Fake) Diagram Examples: diagram-examples.md
 
 
-    - icon: fontawesome/brands/github
-      link: https://github.com/zoeyj3/2216_documentation
-      name: GitHub
-
-copyright: Copyright &copy; 2025 Zoey Jiang and Khai Phan
+copyright: Copyright &copy; 2025 ZoeyJ & KhaiP
