@@ -23,6 +23,10 @@ theme:
   favicon: assets/drawio-logo.png
   features:
     - navigation.footer
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
   palette:
     # Dark Mode
     - scheme: slate
@@ -62,7 +66,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-  -
 nav:
   - Home: index.md
   - General Operations: general-operations.md
