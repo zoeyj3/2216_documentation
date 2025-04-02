@@ -103,17 +103,26 @@ In this section, we will introduce how to export your diagram as a PDF or image 
       </figure>
    
       a. `Selection Only` Exports only the part of the diagram that you manually selected.
+
       b. `Page View` Divides the diagram canvas into uniformly sized pages.
+
       c. `Crop`  Exports the entire diagram on a single canvas without cutting.
+
       d. `Fit to ... sheets`  Automatically resizes your diagram to fit within the specified number of sheets in both width and height.
 
-![diff_page_export_setting.jpg](assets/general-operations/diff_page_export_setting.jpg)
+      <figure markdown>
+      ![Shape panel](assets/general-operations/diff_page_export_setting.jpg)
+      </figure>
+   
+      e. `Border Width` Extend the page to increase or shrink the border of canvas. 
 
-e. `Border Width` Extend the page to increase or shrink the border of canvas.
-f. `Zoom` Zoom the printing diagram on canvas.
-g. `Grid` Export the diagram with grids in canvas.
-h. `Transparent Background` Export the diagram with transparent background.
-i. `Include a copy of my diagram` Embed the original diagram data into the exported PDF file. This will allow you to reopen and edit the diagram directly in draw.io.
+   f. `Zoom` Zoom the printing diagram on canvas.
+
+   g. `Grid` Export the diagram with grids in canvas.
+
+   h. `Transparent Background` Export the diagram with transparent background.
+
+   i. `Include a copy of my diagram` Embed the original diagram data into the exported PDF file. This will allow you to reopen and edit the diagram directly in draw.io.
 
 3.**Select** `Export`. In the pop-up windows, change the name of the file if needed. 
       <figure markdown>
@@ -122,7 +131,7 @@ i. `Include a copy of my diagram` Embed the original diagram data into the expor
 
 !!! warning "Keep the .pdf extend name"
 
-   Do not remove the `.pdf` extension when renaming the file, as this may cause the file to open incorrectly
+      Do not remove the `.pdf` extension when renaming the file, as this may cause the file to open incorrectly
 
 4.**Click** `Save`. The file will be downloaded automatically. 
 
