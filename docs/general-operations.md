@@ -16,9 +16,13 @@ Here we are going to create our first file on draw.io. Make sure you are signed 
 
 
 2. **Select** `Blank Diagram`, and **click** `Create`.
-![select_type.jpg](assets/general-operations/select_type.jpg)
+   <figure markdown>
+   ![Shape panel](./assets/general-operations/select_type.jpg){width="500"}
+   </figure>
 3. **Change** the `file name` in the next pop-up window. Keep the other settings as default.
-![change_name.jpg](assets/general-operations/change_name.jpg)
+      <figure markdown>
+   ![Shape panel](assets/general-operations/change_name.jpg){width="500"}
+      </figure>
 4. **Click** `Save` and wait a few seconds while draw.io loads the editing tools.
 
 !!! note "Info"
@@ -31,28 +35,49 @@ Here we are going to create our first file on draw.io. Make sure you are signed 
     
     After creating a file in Google Drive, draw.io will automatically save your changes. You do not need to worry about losing your progress.
 
-
 ## Share a file
 Draw.io provides a collaboration feature that allows you to work on diagrams with others. This section will introduce 2 ways to invite co-workers: by sending invitation via email or sharing the link.
-
 
 ### Via email ###
 
 1. **Click** the blue `Share` on the top right of the page.
+
 2. **Enter** the email address that you want to share your document with in the input box, return.
-![share_email.jpg](assets/general-operations/share_email.jpg)
+
+   <figure markdown>
+   ![Shape panel](./assets/general-operations/share_email.jpg){width="600"}
+   </figure>
+
 3. **Select** the correct access on the dropdown menu, then **click** `Send`.
-![email_access.jpg](assets/general-operations/email_access.jpg)
+
+   <figure markdown>
+   ![Shape panel](./assets/general-operations/email_access.jpg){width="500"}
+   </figure>
+
+!!! note "What is the Role"
+    
+         there are three levels of permissions: 
+         Editor: Can edit all content in the diagram.
+         Commenter: Can view and leave comments but cannot make changes.
+         Viewer: Can only view the diagram and cannot share, edit, or change access permissions.
 
 ### Via link ###
 
 1. **Click** the blue `Share` on the top right of the page.
-2. In `General access` section, **click** `restricted` dropdown menu, and **select** `Everyone with the link`.
-![change_access.jpg](assets/general-operations/change_access.jpg)
-3. **Click** the `Viewer`dropdown menu on the right side, **select** the access you want to give them.
-![change_role.jpg](assets/general-operations/change_role.jpg)
-4.**Click** the left bottom `Copy link`, and **send** the link by pasting it to your collaborators through any chat app.
 
+2. In `General access` section, **click** `restricted` dropdown menu, and **select** `Everyone with the link`.
+
+   <figure markdown>
+   ![Shape panel](./assets/general-operations/change_access.jpg){width="500"}
+   </figure>
+   
+3. **Click** the `Viewer`dropdown menu on the right side, **select** the access you want to give them.
+
+   <figure markdown>
+   ![Shape panel](assets/general-operations/change_role.jpg){width="600"}
+   </figure>
+
+4.**Click** the left bottom `Copy link`, and **send** the link by pasting it to your collaborators through any chat app.
 
 !!! Success "Success"
 
@@ -63,8 +88,25 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 
 In this section, we will introduce how to export your diagram as a PDF or image file. We will also show you how to export your diagram in a revisable XML format, which allows for integration with other diagramming tools.
 
+### Export as a PDF or image ###
 
-## Import a file 
+1. **Click** the `File` in menu, then **select** `Export as`. Here we can find a menu of all common format.
 
-Insert 
-insert sql code to generate entity-relationship diagram
+      <figure markdown>
+      ![Shape panel](assets/general-operations/save_as.jpg){width="600"}
+      </figure>
+   
+2. **Select** PDF. This is the most common format and support variety custimzations.
+
+      <figure markdown>
+      ![Shape panel](assets/general-operations/pdf_export.jpg){width="600"}
+      </figure>
+   
+      a. `Selection Only` Exports only the part of the diagram that you manually selected.
+      b. `Page View` Divides the diagram canvas into uniformly sized pages.
+      c. `Crop`  Exports the entire diagram on a single canvas without cutting.
+      d. `Fit to ... sheets`  Automatically resizes your diagram to fit within the specified number of sheets in both width and height.
+
+![diff_page_export_setting.jpg](assets/general-operations/diff_page_export_setting.jpg)
+
+
