@@ -1,7 +1,7 @@
 # Glossary
 
-| Term                         | Definition                              |
-|------------------------------|-----------------------------------------|
+| Term                      | Definition                              |
+|---------------------------|-----------------------------------------|
 | Connection point   | A designated spot on a shape where connectors are attached. These points are often represented by small crosses or dots.|
 | Flowchart   | A type of diagram used to represent a process, workflow, or decision-making sequence. It uses standardized shapes and arrows to visually depict a sequence of actions or decisions. |
 | Grab handles   | Small circular controls around a shape that allow users to resize the shape by dragging. |
