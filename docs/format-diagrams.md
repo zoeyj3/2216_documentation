@@ -50,7 +50,7 @@ Once you've added shapes, connectors, and labels, you can apply styles to improv
 
     Stick to a color scheme or style template to avoid confusion. Too many different colors can overwhelm the viewer and reduce the diagram's effectiveness.
 
-![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes"){width="900"}
+![Style shapes](assets/format-diagrams/style-shape.gif "How to style shapes"){width="900"}
 
 ### Style a label
 
@@ -63,7 +63,7 @@ Modify text styles for labels via the *Text* tab:
 
 !!! tip "Label clarity"
 
-    ensure that the font size is legible and that there’s enough padding between the text and surrounding shapes. Keep text concise to avoid clutter.
+    Ensure that the font size is legible and that there’s enough padding between the text and surrounding shapes. Keep text concise to avoid clutter.
 
 ![Style labels](assets/format-diagrams/style-text.gif "How to style labels"){width="900"}
 

@@ -52,7 +52,7 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
 ![Move shapes](assets/create-diagrams/move-shape.gif "How to move a shape"){width="600"}
 
-**Resize**: Select a shape and drag its round grab handles to adjust its size. Hold `Control` (Windows/Linux) or `Command` (Mac) to keep it centred. Hold `Shift` to maintain the shape's proportions.
+**Resize**: Select a shape and drag its round blue dots to adjust its size. Hold `Control` (Windows/Linux) or `Command` (Mac) to keep it centred. Hold `Shift` to maintain the shape's proportions.
 
 !!! warning "Warning: Distorted shapes"
 
@@ -105,7 +105,7 @@ Fixed connectors stay attached to a specific point on a shape, regardless of mov
 Shape labels on shapes make it easier to understand a diagram quickly.
 
 1. **Click** on a shape and type the text to add a new or replace a label.
-2. **Press** `Enter` (Linux/Windows) or `Control + Enter` (Mac) to save the label.
+2. **Press** `Enter` (Linux/Windows) or `Command + Enter` (Mac) to save the label.
 
 !!! tip "Tip: Line break inside a label"
     Press `Shift + Enter` to add a line break in a label.
