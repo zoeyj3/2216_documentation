@@ -30,7 +30,7 @@ To group shapes:
 
     - Right-click on a grouped shape and choose **Ungroup**.
 
-![Group shapes](assets/format-diagrams/group-shapes.gif "How to group shapes together")
+![Group shapes](assets/format-diagrams/group-shapes.gif "How to group shapes together"){width="650"}
 
 ### Style a Shape
 
@@ -50,7 +50,7 @@ Once you've added shapes, connectors, and labels, you can apply styles to improv
 
     Stick to a color scheme or style template to avoid confusion. Too many different colors can overwhelm the viewer and reduce the diagram's effectiveness.
 
-![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes")
+![Style shapes](assets/format-diagrams/style-shapes.gif "How to style shapes"){width="900"}
 
 ### Style a label
 
@@ -65,7 +65,7 @@ Modify text styles for labels via the *Text* tab:
 
     ensure that the font size is legible and that there’s enough padding between the text and surrounding shapes. Keep text concise to avoid clutter.
 
-![Style labels](assets/format-diagrams/style-text.gif "How to style labels")
+![Style labels](assets/format-diagrams/style-text.gif "How to style labels"){width="900"}
 
 ### Style a connector
 
@@ -79,7 +79,7 @@ You can customize connectors in the *Style* tab:
 
     Ensure that they do not overlap with shapes or other connectors, as this can reduce clarity. Use curved connectors or change paths when necessary.
 
-![Style connectors](assets/format-diagrams/change-path.gif "How to style connectors")
+![Style connectors](assets/format-diagrams/change-path.gif "How to style connectors"){width="800"}
 
 ## Conclusion
 

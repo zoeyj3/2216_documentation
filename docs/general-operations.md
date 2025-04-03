@@ -14,13 +14,12 @@ Here we are going to create our first file on draw.io. Make sure you are signed 
     ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
     </figure>
 
-
 2. **Select** `Blank Diagram`, and **click** `Create`.
 
       <figure markdown>
       ![Shape panel](assets/general-operations/select_type.jpg){width="600"}
       </figure>
-   
+
 3. **Change** the `file name` in the next pop-up window. Keep the other settings as default.
 
       <figure markdown>
