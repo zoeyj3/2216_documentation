@@ -142,11 +142,11 @@ In this section, we will introduce how to export your diagram as a revisable PDF
 
 By the end of this section, you will have successfully learned the following:
 
-:white_check_mark:&nbsp; How to create a new draw.io file and save it to Google Drive.
+- [x] How to create a new draw.io file and save it to Google Drive.
 
-:white_check_mark:&nbsp; How to share your diagram with collaborators via email or link
+- [x] How to share your diagram with collaborators via email or link
 
-:white_check_mark:&nbsp; How to export your diagram as a PDF.
+- [x] How to export your diagram as a PDF.
 
 Great job! &nbsp;:blush:&nbsp; Check out the next page, and we are going to create your first diagram!
 

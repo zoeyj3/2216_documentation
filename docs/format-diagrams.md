@@ -85,11 +85,11 @@ You can customize connectors in the *Style* tab:
 
 By the end of this section, you will have successfully learned the following:
 
-:white_check_mark:&nbsp; How to group and ungroup shapes for easier manipulation.
+- [x] How to group and ungroup shapes for easier manipulation.
 
-:white_check_mark:&nbsp; How to style shapes, labels, and connectors to enhance diagram readability.
+- [x] How to style shapes, labels, and connectors to enhance diagram readability.
 
-:white_check_mark:&nbsp; How to adjust connector paths and arrow styles for better visual clarity.
+- [x] How to adjust connector paths and arrow styles for better visual clarity.
 
 Awesome! &nbsp;:tada:&nbsp; Check out the next page if you've had any issues getting the project to work:
 

@@ -129,11 +129,11 @@ You can add more than one label to a connector - at the source end, the target e
 
 By the end of this section, you will have successfully learned the following:
 
-:white_check_mark:&nbsp; How to add, move, resize, and delete shapes on the drawing canvas.
+- [x] How to add, move, resize, and delete shapes on the drawing canvas.
 
-:white_check_mark:&nbsp; How to connect shapes using floating and fixed connectors.
+- [x] How to connect shapes using floating and fixed connectors.
 
-:white_check_mark:&nbsp; How to add labels for both shapes and connectors.
+- [x] How to add labels for both shapes and connectors.
 
 Great job! &nbsp;:blush:&nbsp; You can go ahead and click on the link below to move on to the next step:
 
