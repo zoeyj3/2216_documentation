@@ -116,10 +116,6 @@ Shape labels on shapes make it easier to understand a diagram quickly.
 
 You can add more than one label to a connector - at the source end, the target end, and in the middle.
 
-        <figure markdown>
-        ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
-        </figure>
-
 1. **Double-click* at the desired location on the connector to add a label.
 2. To reposition the label, **click** on it and drag the `small yellow diamond` to a new position.
 
