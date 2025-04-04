@@ -148,6 +148,6 @@ By the end of this section, you will have successfully learned the following:
 
 - [x] How to export your diagram as a PDF.
 
-Great job! &nbsp;:blush:&nbsp; Check out the next page, and we are going to create your first diagram!
+Great job! &nbsp;:blush:&nbsp; Check out the next page where we are going to assist you in creating your first diagram!
 
 [Create Diagrams](create-diagrams.md)

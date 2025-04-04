@@ -4,13 +4,18 @@
 
 Welcome! The purpose of this document is to help you with [Draw.io](https://app.diagrams.net/), also known as Diagrams.net, a free diagramming tool allows user to create various type of diagrams, including flowcharts, mind maps, UML diagrams, and even Kanban Board.
 
-For full official documentation visit [Draw.io Documentation](https://www.drawio.com/doc/).
+For full official documentation, visit [Draw.io Documentation](https://www.drawio.com/doc/).
 
-## Is This Guide For You?
+## Intended Users
 
-The guide is designed for users who need to create digital diagrams but new to Draw.io or similar diagramming tools .
+This guide was created to help the following users:
 
-## By the end of this guide, you will be able to
+* First term CST students at BCIT who will be making various types of diagrams in different courses, especially COMP 1510 - Programming Methods, and COMP 1712 - Business Analysis and System Design.
+* People who need to create digital diagrams but new to Draw.io or similar diagramming tools .
+
+## Intended Outcomes
+
+By the end of this guide, you will be able to:
 
 * Create, open, share, download and save a Draw.io file.
 * Create a basic flowchart in Draw.io.
