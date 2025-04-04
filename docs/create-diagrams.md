@@ -50,7 +50,7 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
 **Move**: Click and drag a shape to reposition it.
 
-![Move shapes](assets/create-diagrams/move-shape.gif "How to move a shape"){width="600"}
+![Move shapes](assets/create-diagrams/move-shape.gif "How to move a shape"){width="550"}
 
 **Resize**: Select a shape and drag its round blue dots to adjust its size. Hold `Control` (Windows/Linux) or `Command` (Mac) to keep it centred. Hold `Shift` to maintain the shape's proportions.
 
@@ -58,15 +58,15 @@ In addition to the shapes in the General and Advanced shape libraries, you can u
 
     If you resize without holding `Shift`, your shape may become distorted.
 
-![Resize shapes](assets/create-diagrams/resize-shape.gif "How to resize a shape"){width="600"}
+![Resize shapes](assets/create-diagrams/resize-shape.gif "How to resize a shape"){width="550"}
 
 **Rotate**:  Click the shape and drag the *rotate handle* (round arrow) at the top right to spin it around its center.
 
-![Rotate shapes](assets/create-diagrams/rotate-shape.gif "How to rotate a shape"){width="600"}
+![Rotate shapes](assets/create-diagrams/rotate-shape.gif "How to rotate a shape"){width="550"}
 
 **Delete**: Select a shape and press `Backspace` or `Delete`, or use the **Delete tool* in the toolbar.
 
-![Delete shapes](assets/create-diagrams/delete-shape.gif "How to delete a shape"){width="600"}
+![Delete shapes](assets/create-diagrams/delete-shape.gif "How to delete a shape"){width="550"}
 
 ### Connect the Shapes
 
@@ -82,7 +82,7 @@ Floating connectors automatically adjust their position as shapes move or their 
 
 4. **Release** when the target shape’s outline turns blue.
 
-![Floating connector](assets/create-diagrams/draw-floating-connector.gif "How to draw a floating connector"){width="600"}
+![Floating connector](assets/create-diagrams/draw-floating-connector.gif "How to draw a floating connector"){width="550"}
 
 #### Draw a Fixed Connector
 
@@ -96,7 +96,7 @@ Fixed connectors stay attached to a specific point on a shape, regardless of mov
 
 4. **Position** the cursor over a connection point until it highlights green, then release to attach the connector.
 
-![Fixed connector](assets/create-diagrams/draw-fixed-connector.gif "How to draw a fixed connector"){width="600"}
+![Fixed connector](assets/create-diagrams/draw-fixed-connector.gif "How to draw a fixed connector"){width="550"}
 
 ### Add Labels
 
@@ -110,7 +110,7 @@ Shape labels on shapes make it easier to understand a diagram quickly.
 !!! tip "Tip: Line break inside a label"
     Press `Shift + Enter` to add a line break in a label.
 
-![Connector label](assets/create-diagrams/add-shape-label.gif "How to add a shape label"){width="600"}
+![Connector label](assets/create-diagrams/add-shape-label.gif "How to add a shape label"){width="550"}
 
 #### Add a Connector Label
 
@@ -123,7 +123,7 @@ You can add more than one label to a connector - at the source end, the target e
 
     If your label isn't perfectly positioned, zoom in and use the arrow keys for fine adjustments.
 
-![Connector label](assets/create-diagrams/add-connector-label.gif "How to add a connector label"){width="600"}
+![Connector label](assets/create-diagrams/add-connector-label.gif "How to add a connector label"){width="550"}
 
 ## Conclusion
 
