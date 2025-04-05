@@ -36,9 +36,9 @@ After a few seconds, the setup process will be complete!
 
 
 ## Create a Draw.io file
-Here we are continue going to create our first file. 
+Here we are continue going to create our first file.
 
-1. **Click** the icon of `Google Drive`.
+1. **Click** the button `Create New Diagram`.
 
      <figure markdown>
      ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
@@ -70,6 +70,12 @@ Here we are continue going to create our first file.
 
 ## Share a file
 Draw.io provides a collaboration feature that allows you to work on diagrams with others. This section will introduce 2 ways to invite co-workers: by sending invitation via email or sharing the link.
+
+
+!!! Note "This section is designed for Chrome browser"
+
+      If you are using Firefox or Microsoft Edge, the steps may differ slightly. Please refer to Google Drive documentation for instructions.
+
 
 ### Via email ###
 
@@ -154,6 +160,7 @@ In this section, we will introduce how to export your diagram as a revisable PDF
       i. `Include a copy of my diagram` Embed the original diagram data into the exported PDF file. This will allow you to reopen and edit the diagram directly in draw.io.
 
 3.**Select** `Export`. In the pop-up windows, change the name of the file if needed. 
+
       <figure markdown>
       ![Shape panel](assets/general-operations/save_rename.jpg){width="600"}
       </figure>
