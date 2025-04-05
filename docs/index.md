@@ -22,7 +22,17 @@ The documentation assumes the following:
 
 * A computer with the Chrome browser.
 * A Google Drive account.
-* Basic computer knowledge and be familiar with using keyboard and mouse.
+* Basic computer knowledge and be familiar with using a keyboard and a mouse.
+
+## Typographical Conventions
+
+We will use these typographical conventions:
+| Convention Explanation          | Examples                        |
+| :------------------------------ | :------------------------------ |
+| Buttons will be formatted with in `block`|`file`, `Save`|
+| Actions will be displayed in bold | **Drag**, **double click**, **Select** |
+| A sequence of instructions will be displayed with arrows show as | **Select** `File` -> `Import From` -> `PNG`|
+
 
 ## Notes and Warning Messages
 
