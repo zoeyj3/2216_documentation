@@ -29,7 +29,7 @@ First, let's set up your account and complete the authorization process.
 4. After finishing sign-in process, **Click** `Select all` to give draw.io full access. **Scroll** down to the bottom of the window, and **click** continue.
       
       <figure markdown>
-      ![Shape panel](assets/general-operations/select_all.jpg){width="600"}
+      ![Shape panel](assets/general-operations/select_all.jpg){width="500"}
       <figure markdown>
 
 After a few seconds, the setup process will be complete!
@@ -74,7 +74,7 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 
 !!! Note "This section is designed for Chrome browser"
 
-      If you are using Firefox or Microsoft Edge, the steps may differ slightly. Please refer to Google Drive documentation for instructions.
+      If you are using Firefox or Microsoft Edge, the steps may be different. Please refer to Google Drive documentation for instructions.
 
 
 ### Via email ###
@@ -125,13 +125,13 @@ Draw.io provides a collaboration feature that allows you to work on diagrams wit
 In this section, we will introduce how to export your diagram as a revisable PDF.
 
 
-1. **Click** the `File` in menu, then **select** `Export as`. Here we can find a menu of all common format.
+1. **Click** `File` -> `Export as` -> `PDF`.
 
       <figure markdown>
       ![Shape panel](assets/general-operations/save_as.jpg){width="600"}
       </figure>
    
-2. **Select** PDF. This is the most commonly used format and supports variety custimzation options.
+2. In the new pop-up window, you can keep selections default. Below is an introduction to the available customization options:
 
       <figure markdown>
       ![Shape panel](assets/general-operations/pdf_export.jpg){width="600"}
