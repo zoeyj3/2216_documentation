@@ -113,11 +113,11 @@ In this section, we will introduce how to export your diagram as a revisable PDF
       ![Shape panel](assets/general-operations/diff_page_export_setting.jpg)
       </figure>
    
-      e. `Border Width` Extend the page to increase or shrink the border of canvas. 
+      e. `Border Width` Extend the page to increase or shrink the border of the canvas. 
 
-      f. `Zoom` Zoom the printing diagram on canvas.
+      f. `Zoom` Zoom the printing diagram on the canvas.
 
-      g. `Grid` Export the diagram with grids in canvas.
+      g. `Grid` Export the diagram with grids on the canvas.
 
       h. `Transparent Background` Export the diagram with transparent background.
 
@@ -148,6 +148,6 @@ By the end of this section, you will have successfully learned the following:
 
 - [x] How to export your diagram as a PDF.
 
-Great job! &nbsp;:blush:&nbsp; Check out the next page, and we are going to create your first diagram!
+Great job! &nbsp;:blush:&nbsp; Check out the next page where we are going to assist you in creating your first diagram!
 
 [Create Diagrams](create-diagrams.md)
