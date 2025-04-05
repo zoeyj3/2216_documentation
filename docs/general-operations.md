@@ -4,15 +4,45 @@
 
 In this section, we will guide you through some basic setting up operations, including creating a draw.io file, sharing it with others, and exporting it locally.
 
+## Setup
+
+First, let's set up your account and complete the authorization process.
+
+1. When you first open draw.io, you’ll see a window like below. **Click** the `Google Drive` Icon.
+
+      <figure markdown>
+      ![Shape panel](assets/general-operations/save_to_drive.jpg){width="500"}
+      </figure>
+
+2. Keep `Remember me` selected, **Click** `Authorize` button.
+
+      <figure markdown>
+      ![Shape panel](assets/general-operations/authorization.jpg){width="500"}
+      </figure>
+
+3. **Click** `Continue` and sign in your Google Account in new pop-up window.
+
+      <figure markdown>
+      ![Shape panel](assets/general-operations/sign_in.jpg){width="600"}
+      </figure>
+
+4. After finishing sign-in process, **Click** `Select all` to give draw.io full access. **Scroll** down to the bottom of the window, and **click** continue.
+      
+      <figure markdown>
+      ![Shape panel](assets/general-operations/select_all.jpg){width="600"}
+      <figure markdown>
+
+After a few seconds, the setup process will be complete!
+
+
 ## Create a Draw.io file
-Here we are going to create our first file on draw.io. Make sure you are signed in to your Google account.
+Here we are continue going to create our first file. 
 
-1. When you first open draw.io, you’ll see a screen like below. 
-**Click** the icon of `Google Drive`.
+1. **Click** the icon of `Google Drive`.
 
-    <figure markdown>
-    ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
-    </figure>
+     <figure markdown>
+     ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
+     </figure>
 
 2. **Select** `Blank Diagram`, and **click** `Create`.
 
