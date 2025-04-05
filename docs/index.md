@@ -33,7 +33,7 @@ The documentation assumes the following:
 
 We will use these typographical conventions:
 | Convention Explanation          | Examples                        |
-| :------------------------------ | :------------------------------ |
+| ------------------------------ | ------------------------------ |
 | Buttons will be formatted with in `block`|`file`, `Save`|
 | Actions will be displayed in bold | **Drag**, **double click**, **Select** |
 | A sequence of instructions will be displayed with arrows show as | **Select** `File` -> `Import From` -> `PNG`|
