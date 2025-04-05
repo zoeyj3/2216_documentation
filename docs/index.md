@@ -32,6 +32,7 @@ The documentation assumes the following:
 ## Typographical Conventions
 
 We will use these typographical conventions:
+
 | Convention Explanation          | Examples                        |
 | ------------------------------ | ------------------------------ |
 | Buttons will be formatted with in `block`|`file`, `Save`|
