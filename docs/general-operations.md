@@ -131,12 +131,14 @@ In this section, we will introduce how to export your diagram as a revisable PDF
       ![Shape panel](assets/general-operations/save_as.jpg){width="600"}
       </figure>
    
-2. In the new pop-up window, you can keep selections default. Below is an introduction to the available customization options:
+2. In the new pop-up window, you can keep selections default. 
 
       <figure markdown>
       ![Shape panel](assets/general-operations/pdf_export.jpg){width="600"}
       </figure>
-   
+
+      Below are introductions to the available customization options:
+
       a. `Selection Only` Exports only the part of the diagram that you manually selected.
 
       b. `Page View` Divides the diagram canvas into uniformly sized pages.
