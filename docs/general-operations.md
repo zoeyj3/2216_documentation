@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this section, we will guide you through some basic setting up operations, including creating a draw.io file, sharing it with others, and exporting it locally.
+In this section, we will guide you through some basic setup operations, including creating a Draw.io file, sharing it with others, and exporting it locally.
 
 ## Setup
 
@@ -20,7 +20,7 @@ First, let's set up your account and complete the authorization process.
       ![Shape panel](assets/general-operations/authorization.jpg){width="500"}
       </figure>
 
-3. **Click** `Continue` and sign in your Google Account in new pop-up window.
+3. **Click** `Continue` and sign in to your Google Account in new pop-up window.
 
       <figure markdown>
       ![Shape panel](assets/general-operations/sign_in.jpg){width="600"}
@@ -36,9 +36,9 @@ After a few seconds, the setup process will be complete!
 
 
 ## Create a Draw.io file
-Here we are continue going to create our first file.
+Here we will continue by creating our first file.
 
-1. **Click** the button `Create New Diagram`.
+1. **Click** the `Create New Diagram` button.
 
      <figure markdown>
      ![Shape panel](assets/general-operations/create-new-file.jpg){width="500"}
@@ -167,7 +167,7 @@ In this section, we will introduce how to export your diagram as a revisable PDF
       ![Shape panel](assets/general-operations/save_rename.jpg){width="600"}
       </figure>
 
-!!! warning "Keep the .pdf extend name"
+!!! warning "Keep the .pdf extension in the file name"
 
       Do not remove the `.pdf` extension when renaming the file, as this may cause the file to open incorrectly
 
